@@ -2,6 +2,15 @@
    NAVIGATION
    ========================================================================== */
 
+/* Updated Hyperlink and Menu Item Colors */
+a, .menu-item a {
+  color: #b40505; /* Set hyperlink color */
+}
+
+a:hover, .menu-item a:hover {
+  color: darken(#b40505, 10%); /* Darker color on hover */
+}
+
 /*
    Breadcrumb navigation links
    ========================================================================== */
