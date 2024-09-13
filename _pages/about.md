@@ -23,4 +23,4 @@ My philosophy on ADEIB is deeply influenced by my intersectional experiences as 
 
 In academic and community spaces, I strive to apply these principles through mindful mentorship and collaboration. Recognizing the complexity of growth in ADEIB, I commit to learning from both successes and failures. I aspire to maintain an open mind and humility, acknowledging that progress in fostering inclusive environments is ongoing, non-linear, and unique to each context.
 
-I actively seek opportunities to improve, listen, and adapt, ensuring that my actions contribute positively to building spaces where everyone feels seen, heard, and empowered.
+I actively seek opportunities to improve, listen, and adapt, ensuring that my actions contribute positively to building spaces where everyone feels seen, heard, and empowered by default.
