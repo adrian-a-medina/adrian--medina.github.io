@@ -6,13 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p align="center">
-  <img src="/images/McLean-Harvard Banner.svg">
-</p>
 
 **Welcome!**
 =====
 I'm Adrián, a brain science enthusiast & Research Data Manager in the Applied Neuroimaging Statistics Research Laboratory at McLean Hospital. My educational journey has led me through a Master of Public Health (MPH) in Health & Social Behavior at Harvard T.H. Chan School of Public Health, a Master of Education (EdM) in Human Development from Harvard Graduate School of Education, and a Bachelor of Science (BS) in Cognitive/Behavioral Neuroscience & Psychology from Loyola University Chicago.
+<p align="center">
+  <img src="/images/McLean-Harvard Banner.svg">
+</p>
 
 **Accessibility, Diversity, Equity, Inclusion, & Belonging**
 =====
