@@ -2,6 +2,7 @@
 title: "Integrative Framework of Interdisciplinary Research in Brain, Cognitive, & Social Sciences"
 excerpt: "I am an aspiring physician-scientist deeply committed to the integrative study of developmental affective neuroscience, psychiatric epidemiology, and psychopharmacology. I explore the impact of multidimensional traumatic stressors on psychopathology, utilizing advanced methodologies like multilevel and normative modeling to develop precision medicine approaches. These efforts aim to refine treatments tailored to individual needs, particularly in behavioral neurology-neuropsychiatry, developmental-behavioral pediatrics, and child-adolescent psychiatry. I envision establishing a trauma-informed treatment program to support vulnerable youths, integrating scientific discoveries with clinical solutions to enhance mental health care for oppressed communities.<br/><img src='/images/Model Diagram.svg'>"
 collection: research
+category: overview
 ---
 <br/><img src='/images/Model Diagram.svg'>
 
